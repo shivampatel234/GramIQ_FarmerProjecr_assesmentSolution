@@ -1,0 +1,2 @@
+# GramIQ_FarmerProjecr_assesmentSolution
+solution of GramIQ Assesment
